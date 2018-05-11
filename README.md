@@ -1,4 +1,4 @@
-# COM-in-Linux---TextSearch-Component
+# COM-in-Linux-TextSearch-Component
 Linux doesn't have its own Component Object Model, this project creates an object factory structure that demonstrates COM structure in Linux
 
 A text search component that accepts a fully qualified file name and regular-expression text pattern. If the file matches the text pattern in one or more locations, it returns a list of line numbers where the matches occur. If no matches occur, it returns an empty list.
